@@ -1,0 +1,8 @@
+{
+    "libraryName": "amazonka-personalize",
+    "typeOverrides": {
+        "RecipeProvider": {
+            "enumPrefix": "RecipeProvider"
+        }
+    }
+}
