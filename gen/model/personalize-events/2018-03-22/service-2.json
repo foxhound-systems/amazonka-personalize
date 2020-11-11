@@ -5,7 +5,6 @@
     "endpointPrefix":"personalize-events",
     "jsonVersion":"1.1",
     "protocol":"rest-json",
-    "serviceAbbreviation":"AmazonPersonalizeEvents",
     "serviceFullName":"Amazon Personalize Events",
     "serviceId":"Personalize Events",
     "signatureVersion":"v4",
